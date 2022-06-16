@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "G4gNDBuDO+TrnnWfl3xJAWipGKjnVn6etfu0+K/m8VgpY/8DE8nVJSeNSUiU/k4nTXZLm4NyLIXLYiJOKfOqow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\h-ezure.EAST\\source\\repos\\Dotnet-API-React\\API\\API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\h-ezure.EAST\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\h-ezure.EAST\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\h-ezure.EAST\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\h-ezure.EAST\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\h-ezure.EAST\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\h-ezure.EAST\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
